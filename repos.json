@@ -1,0 +1,74 @@
+{
+    "ignitionrobotics/ign-gui-release": {
+        "project_file": "data/repositories/ignitionrobotics/ign-gui-release.json",
+        "project_path": "data/repositories/ignitionrobotics/ign-gui-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/ign-gui-release"
+    },
+    "ignitionrobotics/ign-math-release": {
+        "project_file": "data/repositories/ignitionrobotics/ign-math-release.json",
+        "project_path": "data/repositories/ignitionrobotics/ign-math-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/ign-math-release"
+    },
+    "ignitionrobotics/ign-math3-release": {
+        "project_file": "data/repositories/ignitionrobotics/ign-math3-release.json",
+        "project_path": "data/repositories/ignitionrobotics/ign-math3-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/ign-math3-release"
+    },
+    "ignitionrobotics/ign-msgs-release": {
+        "project_file": "data/repositories/ignitionrobotics/ign-msgs-release.json",
+        "project_path": "data/repositories/ignitionrobotics/ign-msgs-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/ign-msgs-release"
+    },
+    "ignitionrobotics/ign-msgs0-release": {
+        "project_file": "data/repositories/ignitionrobotics/ign-msgs0-release.json",
+        "project_path": "data/repositories/ignitionrobotics/ign-msgs0-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/ign-msgs0-release"
+    },
+    "ignitionrobotics/ign-msgs2-release": {
+        "project_file": "data/repositories/ignitionrobotics/ign-msgs2-release.json",
+        "project_path": "data/repositories/ignitionrobotics/ign-msgs2-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/ign-msgs2-release"
+    },
+    "ignitionrobotics/ign-msgs3-release": {
+        "project_file": "data/repositories/ignitionrobotics/ign-msgs3-release.json",
+        "project_path": "data/repositories/ignitionrobotics/ign-msgs3-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/ign-msgs3-release"
+    },
+    "ignitionrobotics/ign-plugin0-release": {
+        "project_file": "data/repositories/ignitionrobotics/ign-plugin0-release.json",
+        "project_path": "data/repositories/ignitionrobotics/ign-plugin0-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/ign-plugin0-release"
+    },
+    "ignitionrobotics/ign-plugins-release": {
+        "project_file": "data/repositories/ignitionrobotics/ign-plugins-release.json",
+        "project_path": "data/repositories/ignitionrobotics/ign-plugins-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/ign-plugins-release"
+    },
+    "ignitionrobotics/ign-transport-release": {
+        "project_file": "data/repositories/ignitionrobotics/ign-transport-release.json",
+        "project_path": "data/repositories/ignitionrobotics/ign-transport-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/ign-transport-release"
+    },
+    "ignitionrobotics/ign-transport2-release": {
+        "project_file": "data/repositories/ignitionrobotics/ign-transport2-release.json",
+        "project_path": "data/repositories/ignitionrobotics/ign-transport2-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/ign-transport2-release"
+    },
+    "ignitionrobotics/ign-transport3-release": {
+        "project_file": "data/repositories/ignitionrobotics/ign-transport3-release.json",
+        "project_path": "data/repositories/ignitionrobotics/ign-transport3-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/ign-transport3-release"
+    }
+}
